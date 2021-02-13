@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyYouTube</string>
+    <string name="ms_all">全曲シャッフル</string>
+    <string name="ms_spring">季節の音楽</string>
+    <string name="ms_southAll">サザンオールスターズ</string>
+    <string name="ms_aim">あいみょん</string>
+    <string name="bt_prepare_play">スタート</string>
+    <string name="bt_back">&lt;&lt;</string>
+    <string name="bt_play_pause">一時停止</string>
+    <string name="bt_play_play">再生</string>
+    <string name="bt_forward">&gt;&gt;</string>
+    <string name="bt_play_set">Play Music</string>
+</resources>
